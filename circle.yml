@@ -12,4 +12,5 @@ deployment:
     branch: [master, develop]
     commands:
       - cd xxxxx
+      - date
 
