@@ -6,7 +6,7 @@ machine:
     LC_CTYPE: "en_US.UTF-8"
 test:
   override:
-    - cd xxxxx
+    - date
 deployment:
   staging:
     branch: [master, develop]
